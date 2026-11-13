@@ -1,5 +1,6 @@
-# npm install --legacy-peer-deps
+# SETUP
+npm install --legacy-peer-deps
 
-# nvm install 16 && nvm use 16
+nvm install 16 && nvm use 16
 
-# npm start 
+npm start 
